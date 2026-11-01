@@ -1,0 +1,7 @@
+{
+  "name": "mirath-guide-site",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build-sitemap.mjs"
+  }
+}
